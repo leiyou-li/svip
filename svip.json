@@ -2805,21 +2805,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-       {
-       "key": "幸福｜拾光",
-       "name": "幸福｜拾光",
-       "type": 3,
-       "api": "csp_HBPQ",
-       "ext": {
-       "请求头": "User-Agent$MOBILE_UA",
-       "编码": "UTF-8",
-       "分类": "电影$chfilm#电视剧$chtvs#综艺$chvariety#动漫$chcg#",  
-       "分类url": "https://www.cgong.com/{cateId}/{class}_{area}_{year}_gold_{catePg}.html",
-       "简介": "喜欢热闹还是喜欢安静
-       " 
-      }
-    }
+        }
     ],
     "parses": [
     {
@@ -3699,3 +3685,4 @@
     ]
 
 }
+
