@@ -1234,23 +1234,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "./js/huyazhibo.js"
-    },
-    {
-      "key": "斗鱼js",
-      "name": "斗鱼｜直播",
-      "type": 3,
-      "api": "./drpy_libs/drpy22.min.js",
-      "ext": "./js/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      }
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },		
-		
+    },	
 		{
 			"key": "博看听书网",
 			"name": "博看｜小说",
@@ -2602,6 +2586,7 @@
     ]
 
 }
+
 
 
 
