@@ -1244,7 +1244,7 @@
       "style": {
         "type": "rect",
         "ratio": 1.755
-      },
+      }
       "playerType": "2",
       "searchable": 0,
       "quickSearch": 0,
@@ -2602,5 +2602,6 @@
     ]
 
 }
+
 
 
