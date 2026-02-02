@@ -126,22 +126,6 @@
         "ratio": 1.597
       }
     },
-    {
-            "key": "七七采集网",
-            "name": "七七｜采集",
-            "type": 1,
-            "api": "http://6.qqqtv.top/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "推荐",
-                "电影",
-                "电视剧",
-                "综艺",
-                "动漫"
-            ]
-        },
         {
             "key": "热播影视",
             "name": "热播｜APP",
@@ -2552,6 +2536,7 @@
     ]
 
 }
+
 
 
 
