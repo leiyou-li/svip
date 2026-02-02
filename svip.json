@@ -1200,41 +1200,7 @@
                 "type": "list"
             },
             "ext": "./js/360吧.js"
-        },
-        {
-            "key": "武享吧",
-            "name": "格斗｜直播",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "style": {
-                "type": "list"
-            },
-            "ext": "./js/武享吧.js"
-        },
-        {
-            "key": "快手直播",
-            "name": "快手｜直播",
-            "type": 3,
-            "api": "csp_KsLive",
-            "jar": "./jar/spider.jar",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
-{
-      "key": "虎牙",
-      "name": "虎牙｜直播",
-      "type": 3,
-      "api": "./drpy_libs/drpy22.min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./js/huyazhibo.js"
-    },	
+        },	
 		{
 			"key": "博看听书网",
 			"name": "博看｜小说",
@@ -2586,6 +2552,7 @@
     ]
 
 }
+
 
 
 
